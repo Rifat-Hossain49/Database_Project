@@ -1,0 +1,20 @@
+.a:hover
+{
+    color:#EBDEF0 ;
+    trasform:scale(1.02);
+    transition-duration: 0.2s;
+    transform: translateY(-1rem);
+}
+.outerdiv
+{
+    width:100%; margin-left:50%; margin-right:50%
+}
+
+.innerdiv
+{
+    height:40px;
+    width: 100px;
+    margin: 2px;
+    box-sizing: border-box;
+
+}
