@@ -1,4 +1,4 @@
-TourOn is a user-friendly, cost-saving hotel booking and management system.
+MyTour is a user-friendly, cost-saving hotel booking and management system.
 
 
 ## Getting Started
