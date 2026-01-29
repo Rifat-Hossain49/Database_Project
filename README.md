@@ -1,8 +1,5 @@
 TourOn is a user-friendly, cost-saving hotel booking and management system.
 
-The contributors to this project are:
-- Riya Dey (1805013) : [GitHub](https://github.com/RiyoCafe)
-- Rabeya Hossain  (1805029) : [GitHub](https://github.com/Rabeya-hossain)
 
 ## Getting Started
 
